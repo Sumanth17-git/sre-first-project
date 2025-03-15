@@ -1,0 +1,44 @@
+﻿uuid,status,email,firstName,lastName,lastLogin,isEmergencyContact,hasOAuthClient,createdAt,updatedAt
+a361ec05-7736-48ee-975e-a00c0a60305e,active,ajinkya.dabhole@fiserv.com,Ajinkya,Dabhole,2025-03-07T04:36:01Z,false,false,2022-06-28T12:29:26Z,2025-03-07T08:36:23Z
+eecd190a-1871-4efa-bf20-d861442f31c7,active,akshay.karale@fiserv.com,Akshay,karale,2025-03-06T04:55:36Z,false,false,2023-03-15T15:00:40Z,2025-03-06T04:57:04Z
+ee2b9f01-9181-4c82-9edb-55e68b1c1e6b,pending,aman.kumarchauhan@fiserv.com,,,,true,false,,
+a70173e0-8d98-4e26-a632-a37b51d6a7ec,active,Amit.Choubey@Fiserv.com,Amit,Choubey,2025-03-07T04:48:15Z,false,false,2025-02-24T10:39:15Z,2025-03-07T04:48:42Z
+ecf93361-553e-4c69-b55c-2b4b004ee582,active,amit.srivastava1@fiserv.com,AMIT,SRIVASTAVA,2025-03-06T15:53:51Z,false,false,2022-08-01T08:07:17Z,2025-03-06T15:53:51Z
+884f971b-4fc5-4241-9d91-a8d82a279378,active,aniket.kakde@fiserv.com,Aniket,Kakde,2025-03-09T03:18:52Z,false,false,2022-07-15T14:08:14Z,2025-03-09T03:19:02Z
+c4e2516b-706f-4af3-915f-6b00c9001f4c,active,arijit.dhar@fiserv.com,Arijit,Dhar,2025-03-08T06:19:58Z,false,false,2022-07-15T14:13:36Z,2025-03-08T06:19:22Z
+92e7e782-d8ce-4666-baff-566b22ca0ab1,active,ashwani.panwar@fiserv.com,Ashwani,Panwar,2025-03-04T05:35:17Z,false,false,2023-05-18T14:57:16Z,2025-03-04T11:37:12Z
+edbb94fe-19ff-4402-8ec1-f04847cb6a94,active,baban.darekar@fiserv.com,Baban,Darekar,2025-03-06T10:56:22Z,false,false,2023-01-24T06:25:56Z,2025-03-06T09:42:47Z
+22fcf6ac-5347-41cb-9466-1a201fbfe2d7,active,dhruvin.shah@Fiserv.com,Dhruvin,Shah,2025-03-07T10:52:06Z,false,false,2021-11-17T11:38:00Z,2025-03-07T17:10:47Z
+90cce405-78fa-4cf2-9a73-b5c3c3781fa5,active,dinesh.mourya@fiserv.com,Dinesh Kumar,Mourya,2025-03-07T14:19:39Z,false,false,2022-09-22T10:51:39Z,2025-03-07T14:19:30Z
+dc6ddd41-a596-4a2c-a2ec-ae7b968ad17d,active,divya.singh@fiserv.com,Divya,Singh,2025-03-08T05:55:14Z,false,false,2024-02-22T07:02:42Z,2025-03-08T05:55:23Z
+acff4a5c-8678-463b-88f2-578dcf8c6629,active,fiservdyn1@synergificsoftware.com,fiserv,dynatrace,2025-03-09T05:11:42Z,true,false,2025-02-25T06:42:12Z,2025-03-09T05:12:01Z
+77c44232-d522-466a-9a4c-4f22360b3462,active,gaurav.jha1@Fiserv.com,Gaurav,Jha,2025-03-06T04:50:25Z,false,false,2024-12-04T08:52:41Z,2025-03-06T17:25:23Z
+237d07f4-f2a8-470c-88fc-480b8b6c037e,pending,harsh.pandey1@fiserv.com,,,,false,false,,
+9de490ae-eced-4857-b0d6-0e897c4f5dff,active,Himachalapathi.J@fiserv.com,Himachalapathi,Jagadabhi,2025-03-07T11:41:15Z,false,false,2020-08-06T04:18:06Z,2025-03-07T11:40:53Z
+b97fb91c-c010-4169-a12f-2ca9b3bbfe7b,active,Jasraj.Sutar@fiserv.com,Jasraj,Sutar,2025-03-06T12:35:44Z,false,false,2025-02-24T10:36:42Z,2025-03-06T15:37:34Z
+08676223-3ca9-40c1-bb0d-2dca7531ec43,active,krishan.kumar@fiserv.com,Krishan,Kumar,2025-03-08T09:44:25Z,false,false,2022-10-27T14:58:03Z,2025-03-08T09:44:45Z
+df3bb2f4-444e-43c5-930d-9a12d34e8cb3,pending,meghna.tibrewal@fiserv.com,,,,false,false,,
+c18ad4e0-6f8a-4b1d-83f7-18fdbfd7460c,pending,neha.dusane@fiserv.com,,,,false,false,,
+9b43448c-34c6-47d7-827e-d5d824910c7b,pending,nikhil.devanpalli@fiserv.com,,,,false,false,,
+75e2dd3e-cf3a-4556-b990-47a4df4c1be3,active,Nisha.Choudhary@Fiserv.com,Nisha,Choudhary,2025-03-08T11:33:51Z,false,false,2021-07-22T16:28:09Z,2025-03-08T11:33:57Z
+b3bc0470-1d6b-4b61-afb8-70d8b43a2d66,active,padmapriya.murugan@fiserv.com,Padmapriya,Murugan,2025-02-27T11:46:42Z,false,false,2023-11-22T10:24:30Z,2025-02-27T12:51:32Z
+41d8d276-dde5-4b42-9820-e6e30942fe8a,active,prakash.kotwal@fiserv.com,Prakash,Kotwal,2025-03-06T04:48:27Z,false,false,2024-05-17T07:34:38Z,2025-03-06T07:09:28Z
+3f92908a-9243-41b7-983c-71142157114f,active,Puneet.Advani@fiserv.com,Puneet,Advani,2025-03-08T10:36:10Z,false,false,2021-10-18T06:19:52Z,2025-03-08T12:19:08Z
+09f8c717-eb90-4895-815e-2829206b861a,active,richard.manuel@fiserv.com,Richard,Manuel,2025-03-07T04:40:43Z,false,false,2022-10-07T09:28:30Z,2025-03-07T07:17:26Z
+de39647b-4bb7-4d89-85e1-f6ecc9cb0680,active,ritik.raj@fiserv.com,Ritik,Raj,2025-03-07T04:36:14Z,false,false,2024-10-21T11:00:25Z,2025-03-07T04:36:38Z
+29b12019-84c1-464d-9709-b2468fd02811,active,saipavanteja.kothavenkata@fiserv.com,Sai Pavan Teja,Kotha Venkata,2025-03-03T22:00:22Z,false,false,2023-05-18T05:48:32Z,2025-03-03T20:46:58Z
+5567ea69-9d33-4cbf-ade0-def94d643e8d,active,sanjeevkumar.deka@fiserv.com,Sanjeev Kumar,Deka,2025-03-07T10:15:16Z,false,false,2023-11-27T09:33:10Z,2025-03-07T10:15:40Z
+385953f2-bb97-4a45-8e30-25458e5c1b9e,active,sarweshwari.yadav@Fiserv.com,Sarweshwari,Yadav,2025-03-07T11:51:39Z,false,false,2021-09-16T16:35:38Z,2025-03-07T11:51:46Z
+1740b003-f053-4e64-bc43-8eb8689d9590,active,shashikant.kumar@fiserv.com,Shashikant,Kumar,2025-03-06T10:22:01Z,false,false,2023-07-03T10:04:33Z,2025-03-06T10:22:07Z
+937e8054-016a-4261-8ae9-a538be5a90a0,active,sriniveditha.madana@fiserv.com,Sriniveditha,Madana,2025-03-06T04:49:24Z,false,false,2023-07-27T09:25:30Z,2025-03-06T13:23:50Z
+c58b74ec-1de7-41cb-9d69-4236e17b7fca,active,sudhir.chaskar@fiserv.com,Sudhir,Chaskar,2025-03-07T19:01:25Z,false,false,2023-03-28T11:49:54Z,2025-03-07T19:01:45Z
+0c201c7e-89c1-4d67-b8a2-9f8481ab3368,active,suganya.arumugham@fiserv.com,Suganya,Arumugham,2025-03-05T13:02:44Z,false,false,2024-01-24T09:18:07Z,2025-03-05T13:02:55Z
+2e4db85c-1148-482a-9fd8-0a9ae2ee3365,active,suja.ganesan@fiserv.com,Suja,Ganesan,2025-03-07T12:22:57Z,false,false,2024-04-02T10:49:09Z,2025-03-07T11:08:49Z
+6dc37b99-301d-495f-b1b6-65a84b889f9c,pending,Sumanth.krishnamurthi@gmail.com,,,,false,false,,
+c06f1f8f-d5dd-46d4-b3e6-4c5129e1400b,active,surender.kumar@fiserv.com,Surender,Kumar,2025-03-07T05:06:41Z,false,false,2023-01-18T06:36:03Z,2025-03-07T05:06:42Z
+44f758cd-e47b-420b-b1e6-d20379af6003,active,tarun.kumar4@fiserv.com,Tarun,Kumar,2025-03-07T09:36:42Z,false,false,2023-01-18T06:55:39Z,2025-03-07T06:38:30Z
+2732bf58-f983-489d-8d1f-c2749644eba9,pending,vaibhav.dubbewar@fiserv.com,,,,false,false,,
+01f568a3-35b4-4dd0-a9ea-252a1922664c,active,vassudev.k@fiserv.com,Vassudev,Korgaonkar,2025-03-07T04:48:52Z,false,false,2024-01-19T10:52:24Z,2025-03-07T04:49:46Z
+b5e58bf6-7fc7-44be-bcc0-bd8d86971cc1,active,vidhya.yadav@fiserv.com,Vidhya,Yadav,2025-03-08T05:08:35Z,false,false,2023-10-27T08:25:51Z,2025-03-09T01:56:30Z
+446b5a8b-df45-4751-9d57-db2ecbd17a9f,active,vinay.gupta@Fiserv.com,Vinay,Gupta,2025-03-07T04:37:49Z,false,false,2021-05-28T08:48:19Z,2025-03-07T09:26:37Z
+aaa1ff6b-a2df-445c-a483-cbe90b4b0da5,active,vishal.Sawhney@fiserv.com,Vishal,Sawhney,2025-03-06T05:24:54Z,false,false,2020-08-10T20:17:07Z,2025-03-06T05:27:06Z
